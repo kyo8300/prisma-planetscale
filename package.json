@@ -1,0 +1,26 @@
+{
+  "name": "prisma-planetscale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyo8300/prisma-planetscale.git"
+  },
+  "keywords": [],
+  "author": "kyo8300",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyo8300/prisma-planetscale/issues"
+  },
+  "homepage": "https://github.com/kyo8300/prisma-planetscale#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.24",
+    "prisma": "^3.12.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
